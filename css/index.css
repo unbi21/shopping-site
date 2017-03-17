@@ -1036,6 +1036,7 @@ h3 {
 	margin: 0;
 	padding-left: 70px;
 	overflow: hidden;
+	font-style: italic;
 }
 
 #price_table span {
